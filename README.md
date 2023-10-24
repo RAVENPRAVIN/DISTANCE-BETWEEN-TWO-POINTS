@@ -8,8 +8,9 @@ Import the math module.
 ### Step 2: 
 Assign the value of the variable.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
-### Step 4: 
+Substitute the values in the distance formula  
+![formula](https://github.com/RAVENPRAVIN/DISTANCE-BETWEEN-TWO-POINTS/assets/146820534/bda4399e-17aa-453a-9ea6-6485c1b8f441)
+### Step 4:
 Print the distance.
 ### Step 5: 
 End the program.
