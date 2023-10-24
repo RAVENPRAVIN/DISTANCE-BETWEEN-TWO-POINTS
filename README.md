@@ -26,6 +26,7 @@ d=((x2-x1)**2+(y2-y1)**2)**(1/2)
 print('{:0.2f}'.format(d))
 ```
 ### OUTPUT:
-![output](distance.png)
+![output](https://github.com/RAVENPRAVIN/DISTANCE-BETWEEN-TWO-POINTS/assets/146820534/5fa04937-e6a6-4f83-bfbb-9eed4fd552c0)
+
 ### RESULT:
 The program has been executed successfully
